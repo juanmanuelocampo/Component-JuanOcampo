@@ -1,0 +1,17 @@
+.grid-container {
+  display: grid;
+  grid-template-areas:  'header header header header header header header'
+                        'menu main main main main main main';
+}
+.grid-toolbar {
+  grid-area: header;
+  background-color: green;
+}
+.grid-menu {
+  grid-area: menu;
+  background-color: blue;
+}
+.grid-redsocial {
+  grid-area: main;
+  background-color: red;
+}
