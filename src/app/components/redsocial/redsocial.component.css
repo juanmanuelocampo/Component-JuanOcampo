@@ -1,6 +1,10 @@
 .redsocial{
-  background-color: green;
+  background-color: rgb(226, 238, 226);
   width: 100%;
   border: 1px solid black;
   padding: 10px;
+}
+
+.redsocial-list{
+    list-style: none;
 }
