@@ -5,13 +5,10 @@
 }
 .grid-toolbar {
   grid-area: header;
-  background-color: green;
 }
 .grid-menu {
   grid-area: menu;
-  background-color: blue;
 }
 .grid-redsocial {
   grid-area: main;
-  background-color: red;
 }
